@@ -37,8 +37,12 @@ html{
 html{
   overflow-x: hidden;
 }
-.draggable {
-  /*cursor:grab;*/
+body {
+  cursor: grab !important;
+}
+
+body:active {
+  cursor: grabbing !important;
 }
 body {
   cursor: grab;

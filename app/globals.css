@@ -65,7 +65,7 @@ body {
 }
 
 ul li a {
-  cursor: pointer;
+  cursor: move;
 }
 
 .nav {

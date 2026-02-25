@@ -35,7 +35,9 @@
 html{
   overflow-x: hidden;
 }
-
+body {
+  cursor: move;
+}
 
 body {
   width: 100vw;

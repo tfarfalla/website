@@ -40,7 +40,13 @@ html{
 .draggable {
   /*cursor:grab;*/
 }
+body {
+  cursor: grab;
+}
 
+body:active {
+  cursor: grabbing;
+}
 body {
   width: 100vw;
   overflow-x: hidden;

@@ -49,7 +49,7 @@ body {
 }
 
 .images {
-  cursor: move;
+   /*cursor:grab;*/
 }
 
 .main {

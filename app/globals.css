@@ -30,8 +30,10 @@
 .video{
   mix-blend-mode: difference;
 }
-
-
+html{
+<div class="draggable">
+  <!-- content -->
+</div>}
 html{
   overflow-x: hidden;
 }

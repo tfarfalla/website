@@ -30,6 +30,9 @@
 .video{
   mix-blend-mode: difference;
 }
+body {
+  cursor: move;
+}
 html{
 <div class="draggable">
   <!-- content -->

@@ -30,35 +30,13 @@
 .video{
   mix-blend-mode: difference;
 }
-body {
-  cursor: move;
-}
-html{
-<div class="draggable">
-  <!-- content -->
-</div>}
-html{
-  overflow-x: hidden;
-}
-body {
-  cursor: grab !important;
-}
 
-body:active {
-  cursor: grabbing !important;
-}
-body {
-  cursor: grab;
-}
-
-body:active {
-  cursor: grabbing;
-}
 body {
   width: 100vw;
   overflow-x: hidden;
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
+  cursor: move;
 }
 
 .images {
